@@ -7,6 +7,4 @@ int main()
     int y = 10*x;
     cout << y << endl;
     return 0;
-
-    
 }
